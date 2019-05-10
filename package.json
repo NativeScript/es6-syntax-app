@@ -1,6 +1,7 @@
 {
   "nativescript": {
-    "id": "org.nativescript.es6syntaxapp"
+    "id": "org.nativescript.es6syntaxapp",
+    "templateVersion": "v2"
   },
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
