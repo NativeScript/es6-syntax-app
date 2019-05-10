@@ -1,12 +1,6 @@
 {
   "nativescript": {
-    "id": "org.nativescript.es6syntaxapp",
-    "tns-ios": {
-      "version": "5.3.1"
-    },
-    "tns-android": {
-      "version": "5.4.0"
-    }
+    "id": "org.nativescript.es6syntaxapp"
   },
   "description": "NativeScript Application",
   "license": "SEE LICENSE IN <your-license-filename>",
